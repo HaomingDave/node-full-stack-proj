@@ -1,0 +1,22 @@
+{
+  "name": "node-full-stack-proj",
+  "version": "1.0.0",
+  "description": "node full stack website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaomingDave/node-full-stack-proj.git"
+  },
+  "author": "haoming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaomingDave/node-full-stack-proj/issues"
+  },
+  "homepage": "https://github.com/HaomingDave/node-full-stack-proj#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
